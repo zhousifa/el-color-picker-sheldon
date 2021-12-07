@@ -73,3 +73,7 @@ export default {
 ```
 
 如果遇到使用上的问题，或者有任何好的改进建议，欢迎在评论下留言。
+
+# CSDN 地址
+
+[el-color-picker-sheldon 使用说明（一款基于 Vue 和 ElementUI 的取色器）](https://blog.csdn.net/qq_39055970/article/details/121702992)
